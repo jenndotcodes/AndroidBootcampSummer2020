@@ -2,7 +2,7 @@
 
 ## Profile
 
-![Jenn's Profile Image](images/profile_photo.jpg =500x)
+![Jenn's Profile Image](images/profile_photo.jpg)
 Format: ![Alt Text](url)
 
 * Name: Jennifer Bailey
