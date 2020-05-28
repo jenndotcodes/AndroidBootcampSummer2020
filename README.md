@@ -3,7 +3,6 @@
 ## Profile
 
 ![Jenn's Profile Image](images/profile_photo.jpg)
-Format: ![Alt Text](url)
 
 * Name: Jennifer Bailey
 * Discord Username: Jenn
